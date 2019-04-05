@@ -1,0 +1,6 @@
+attic/*
+result*
+.stack-work
+dist
+dist-newstyle
+.ghc.environment*
